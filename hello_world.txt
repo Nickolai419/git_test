@@ -1,1 +1,1 @@
-"The best musician in the world?"
+"Hello world, this is my journey of learning coding"
